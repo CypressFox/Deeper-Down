@@ -1,10 +1,11 @@
 {
-  "homepage": "https://github.com/SnowberriFox/Deeper-Down-Updates/releases",
+  "homepage": "https://github.com/CypressFox/Deeper-Down/releases",
   "promos": {
-    "1.21.1-latest": "4.0.0",
-    "1.21.1-recommended": "4.0.0"
+    "1.21.1-latest": "4.0.1",
+    "1.21.1-recommended": "4.0.1"
   },
   "1.21.1": {
+    "4.0.1": "Deeper Down 4.0.1: update notices now come straight from the CypressFox repo. Plays exactly like 4.0.0.",
     "4.0.0": "Deeper Down 4.0.0: route-based endings (the Hollow Watcher, the Sculk Choir, the Gilded Warlord and the Shulker Admiral at the top of the new Ascent), Delvers, completion marks, Trials and a Journal; seeded runs and a daily dungeon with its own board; rooms twice as wide with 100 new room layouts and overhauled corridors; traps (spikes, arrow walls, fire jets, collapsing floors, crushers). Same seed, same dungeon on the same version; runs paused on 3.0.1 rebuild their floor.",
     "3.0.1": "Deeper Down 3.0.1: works with FoxTrot 4.0 (the dungeon music pauses while you play a FoxTrot song again). Needs FoxTrot 4.0 or newer if you have FoxTrot.",
     "3.0.0": "Deeper Down 3.0.0: the dungeon is its own mod now. Works on its own (craft a Descent), with Cobblemon (party battles) or with PokéShift (as before). Pit and lava rooms are parkour-or-die if you're not the type they're for."
